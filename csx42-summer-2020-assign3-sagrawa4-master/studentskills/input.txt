@@ -1,0 +1,4 @@
+1124:Josh,Viper,3.0,Arts,Skill9,Skill8,Skill7
+1134:Max,Cho,3.8,ComputerScience,Skill9,Skill8
+2333:Kygo,DJ,3.1,Music,Skill9,Skill8,Skill7,Skill6,Skill2,Skill3,Skill4
+1234:Harry,koli,3.9,ComputerScience,Skill7,Skill5,Skill2
