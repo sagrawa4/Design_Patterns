@@ -33,7 +33,7 @@ Note: Arguments accept the absolute path of the files.
 
 -----------------------------------------------------------------------
 ## Description:
-
+Assignment Goal: Develop a program, using Java, to process an input file containing sentences and also to calculate certain metrics.
 
 -----------------------------------------------------------------------
 ### Academic Honesty statement:

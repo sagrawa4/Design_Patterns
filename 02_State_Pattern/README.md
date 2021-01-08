@@ -40,7 +40,7 @@ Note: Arguments accept the absolute path of the files.
 
 
 ## Description:
-
+Implement the State Pattern to Design and Implement a program for Youtube to categorize a single channel based on popularity.
 
 ## Academic Honesty statement:
 
