@@ -42,6 +42,7 @@ Note: Arguments accept the absolute path of the files.
 
 
 ## Description:
+Applied the design principles(Observer Pattern) to develop a software which is a Replica System for Student Records.
 
 The tree datasturcture used by me for the assignment is a BST(Binary searxh tree).It is because searching a node in BST is quicker and easy. Also TreeSet datasturcture is used to store skills as it wont allow duplication of values.
 
